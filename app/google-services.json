@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "266735995058",
+    "project_id": "fishclassificationapp",
+    "storage_bucket": "fishclassificationapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266735995058:android:24a8474d7b1cb1608b21ab",
+        "android_client_info": {
+          "package_name": "com.example.fishapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266735995058-k31hq751t1a940gqhtmi4mc8816p1jtp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ_ALiKl0yUdh5e7CGmeAEXxwUquTBqZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266735995058-k31hq751t1a940gqhtmi4mc8816p1jtp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
